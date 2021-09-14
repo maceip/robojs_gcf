@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/maceip/robojs_gcf.git"
   },
-  "keywords": [
-    "avatar"
-  ],
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.7.0",
@@ -16,6 +13,6 @@
     "bufferutil": "^1.2.1",
     "json-loader": "^0.5.4",
     "lodash": "^4.13.1",
-    "utf-8-validate": "^1.2.1",
+    "utf-8-validate": "^1.2.1"
   }
 }
