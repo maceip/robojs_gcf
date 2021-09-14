@@ -2,22 +2,14 @@
   "name": "robojs",
   "version": "0.1.0",
   "description": "robo hash js web app",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monteslu/robojs.git"
+    "url": "https://github.com/maceip/robojs_gcf.git"
   },
   "keywords": [
-    "ble",
-    "webbluetooth",
-    "bluetooth"
+    "avatar",
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/monteslu/robojs/issues"
-  },
-  "homepage": "https://robo.surge.sh",
   "dependencies": {
     "canvas": "^2.7.0",
     "blueimp-md5": "^2.7.0",
