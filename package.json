@@ -7,13 +7,12 @@
     "url": "https://github.com/maceip/robojs_gcf.git"
   },
   "engines": {
-    "node": "^8.0.0"
+    "node": "^15.0.0"
   },
   "license": "MIT",
   "dependencies": {
-    "canvas": "^2.7.0",
     "blueimp-md5": "^2.7.0",
-    "bufferutil": "^1.2.1",
+    "canvas": "^2.7.0",
     "json-loader": "^0.5.4",
     "lodash": "^4.13.1"
   }
